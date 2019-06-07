@@ -1,0 +1,9 @@
+{
+  "name": "test-auth",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@hint/configuration-development": "^6.2.2",
+    "hint": "^5.0.2"
+  }
+}
